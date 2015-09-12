@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	version="3.1">
+
+	<!-- <display-name>hu bing video</display-name> -->
+
+	<!-- <welcome-file-list> -->
+	<!-- <welcome-file>index.html</welcome-file> -->
+	<!-- </welcome-file-list> -->
+
+	<servlet>
+		<servlet-name>detailServlet</servlet-name>
+		<servlet-class>zx.soft.video.servlet.DetailServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>detailServlet</servlet-name>
+		<url-pattern>/pages/servlet</url-pattern>
+	</servlet-mapping>
+
+
+
+	<servlet>
+		<servlet-name>updateServlet</servlet-name>
+		<servlet-class>zx.soft.video.servlet.UpdateServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>updateServlet</servlet-name>
+		<url-pattern>/pages/updateServlet</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>loginServlet</servlet-name>
+		<servlet-class>zx.soft.video.servlet.LoginServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>loginServlet</servlet-name>
+		<url-pattern>/pages/loginServlet</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>deleteDetailServlet</servlet-name>
+		<servlet-class>zx.soft.video.servlet.DeleteDetailServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>deleteDetailServlet</servlet-name>
+		<url-pattern>/pages/deleteDetailServlet</url-pattern>
+	</servlet-mapping>
+
+
+
+</web-app>

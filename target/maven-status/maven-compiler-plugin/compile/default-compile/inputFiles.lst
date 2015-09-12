@@ -1,0 +1,11 @@
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/servlet/DeleteDetailServlet.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/dao/UserMapper.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/model/Users.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/servlet/DetailServlet.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/Impl/DetailDao.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/dao/DetailMapper.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/util/MybatisUtils.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/servlet/LoginServlet.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/Impl/UserDao.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/servlet/UpdateServlet.java
+/home/chl/Documents/workspace-sts-3.6.4.RELEASE/web-test/src/main/java/zx/soft/video/model/Details.java

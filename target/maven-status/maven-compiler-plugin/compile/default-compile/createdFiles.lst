@@ -1,0 +1,11 @@
+zx/soft/video/model/Users.class
+zx/soft/video/Impl/DetailDao.class
+zx/soft/video/util/MybatisUtils.class
+zx/soft/video/Impl/UserDao.class
+zx/soft/video/dao/UserMapper.class
+zx/soft/video/model/Details.class
+zx/soft/video/dao/DetailMapper.class
+zx/soft/video/servlet/DetailServlet.class
+zx/soft/video/servlet/DeleteDetailServlet.class
+zx/soft/video/servlet/LoginServlet.class
+zx/soft/video/servlet/UpdateServlet.class
